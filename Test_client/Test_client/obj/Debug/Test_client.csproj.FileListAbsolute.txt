@@ -1,0 +1,8 @@
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\bin\Debug\Test_client.exe.config
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\bin\Debug\Test_client.exe
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\bin\Debug\Test_client.pdb
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\obj\Debug\Test_client.csproj.AssemblyReference.cache
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\obj\Debug\Test_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\obj\Debug\Test_client.csproj.CoreCompileInputs.cache
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\obj\Debug\Test_client.exe
+C:\Users\gihot\Desktop\Learn\Test_client\Test_client\obj\Debug\Test_client.pdb
